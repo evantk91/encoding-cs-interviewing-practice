@@ -18,5 +18,8 @@
   "homepage": "https://github.com/evantk91/encoding-cs-interviewing-practice#readme",
   "devDependencies": {
     "mocha": "^7.2.0"
+  },
+  "dependencies": {
+    "mocha-multi": "^1.1.3"
   }
 }
